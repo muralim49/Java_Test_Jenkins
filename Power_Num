@@ -8,7 +8,7 @@ public class JavaExample {
         int i = p;
         for (;i != 0; --i)
         {
-            result *= number;
+            result *= number
         }
         
         //Displaying the output
