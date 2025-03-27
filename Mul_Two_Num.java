@@ -5,6 +5,8 @@ public class Mul_Two_Num {
 
     public static void main(String[] args) {
 
+         System.out.print("Enter first number: ");
+
         /* This reads the input provided by user
          * using keyboard
          */
@@ -25,5 +27,6 @@ public class Mul_Two_Num {
         
         // Displaying the multiplication result
         System.out.println("Output: "+product);
+         */
     }
 }
