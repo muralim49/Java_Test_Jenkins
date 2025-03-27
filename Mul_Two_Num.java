@@ -9,7 +9,7 @@ public class Mul_Two_Num {
 
         /* This reads the input provided by user
          * using keyboard
-         */
+         
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter first number: ");
 
